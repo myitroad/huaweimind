@@ -833,4 +833,6 @@
 =================深度交流==================
 </p>
 
+# Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=fenwii/huaweimind&type=Date)](https://star-history.com/#fenwii/huaweimind&Date)
